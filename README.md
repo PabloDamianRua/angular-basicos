@@ -1,3 +1,7 @@
+# Objetivo 
+Prácticas de curso tomado en Udemy Angular: Desde cero a experto
+https://www.udemy.com/course/angular-fernando-herrera/
+
 # Bases
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
